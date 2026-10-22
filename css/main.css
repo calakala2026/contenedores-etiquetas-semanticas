@@ -5,7 +5,10 @@
     }
 }
 
-
+p {
+    color: rgb(96, 4, 46);
+    font-size: 30px;
+}
 
 
 
@@ -18,7 +21,10 @@
         background-color: crimson;
     }
 }
-
+p {
+    color: black;
+    font-size: 40px;
+}
 
 
 
@@ -29,4 +35,7 @@
     body {
         background-color: chartreuse;
     }
+}p {
+    color: black;
+    font-size: 64px;
 }
