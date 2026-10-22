@@ -1,0 +1,32 @@
+/*===================768px=========================*/
+@media only screen and (min-width:768px) {
+    body {
+        background-color: blue;
+    }
+}
+
+
+
+
+
+
+
+/*====================992px========================*/
+
+@media only screen and (min-width:992px) {
+    body {
+        background-color: crimson;
+    }
+}
+
+
+
+
+
+
+/*===================1200px========================*/
+@media only screen and (min-width:1200px){
+    body {
+        background-color: chartreuse;
+    }
+}
